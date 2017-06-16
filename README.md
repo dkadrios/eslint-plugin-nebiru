@@ -1,4 +1,4 @@
-# eslint-plugin-one-ui
+# eslint-plugin-nebiru
 
 ## Configs
 
