@@ -1,0 +1,4 @@
+lib/**/*.ts
+test
+tsconfig.json
+*~
