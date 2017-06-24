@@ -4,7 +4,7 @@
   "description": "ESLint configuration and rules for Nebiru projects",
   "repository": {
     "type": "git",
-    "url": "ssh://git@bitbucket.org/nebiru/eslint-plugin-nebiru.git"
+    "url": "git@github.com:dkadrios/eslint-plugin-nebiru.git"
   },
   "license": "UNLICENSED",
   "main": "lib/index.js",
