@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nebiru",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ESLint configuration and rules for Nebiru projects",
   "repository": {
     "type": "git",
