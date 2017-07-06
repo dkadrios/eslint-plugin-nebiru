@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nebiru",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "ESLint configuration and rules for Nebiru projects",
   "repository": {
     "type": "git",
@@ -19,10 +19,15 @@
     "babel-eslint": "7.2.3",
     "eslint": "4.1.1",
     "eslint-formatter-pretty": "1.1.0",
+    "eslint-import-resolver-webpack": "^0.8.1",
     "eslint-plugin-angular": "3.0.0",
     "eslint-plugin-compat": "1.0.4",
+    "eslint-plugin-flowtype": "^2.33.0",
+    "eslint-plugin-flowtype-errors": "^3.3.0",
     "eslint-plugin-import": "2.6.1",
     "eslint-plugin-jasmine": "2.6.2",
+    "eslint-plugin-jest": "^20.0.3",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
     "eslint-plugin-json": "1.2.0",
     "eslint-plugin-promise": "3.5.0",
     "eslint-plugin-protractor": "1.38.0",
